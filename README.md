@@ -1,1 +1,1 @@
-# Resources From the Pragmatic Programmer
+# Resources For the Pragmatic Programmer book.
